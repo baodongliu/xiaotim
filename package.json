@@ -1,0 +1,10 @@
+{
+  "name": "TP-CALC",
+  "version": "0.0.0",
+  "description": "xiaotim.com",
+  "author": "Baodong Liu",
+  "dependencies": {
+    "express": "~4.13.1",
+    "serve-static": "^1.9.2"
+  }
+}
